@@ -2,6 +2,8 @@
 
 #### Author Ray Hunter ray.hunter@stgconsulting.com
 
+## Scala Application
+
 ### Installing Scala
 
 This requires that you have scala installed and able to run scala via the commandline.
@@ -44,3 +46,9 @@ or if you are on *nix or mac:
 	
 	Input: WOhsYp-6PhD-1NucJuPfAi
 	Output: 0	[-7 / 18 = 0]
+
+
+## iOS Application
+
+I have also included an iOS application that can be built and pushed to an emulator or device.
+This requires an Intel MacOX X machine with Xcode to build the application.

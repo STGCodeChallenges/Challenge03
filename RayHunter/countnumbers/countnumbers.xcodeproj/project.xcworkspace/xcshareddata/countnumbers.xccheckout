@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6BBCCA89-619C-4491-A05B-AAD58FA11FEB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>countnumbers</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>185164AAA1D78B61B4B52962174FDE45708C65FE</key>
+		<string>github.com:rhunter-stg/Challenge03.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RayHunter/countnumbers/countnumbers.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>185164AAA1D78B61B4B52962174FDE45708C65FE</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:rhunter-stg/Challenge03.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>185164AAA1D78B61B4B52962174FDE45708C65FE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>185164AAA1D78B61B4B52962174FDE45708C65FE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Challenge03</string>
+		</dict>
+	</array>
+</dict>
+</plist>
